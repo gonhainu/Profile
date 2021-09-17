@@ -15,15 +15,18 @@
 
 ### 2018.06 - 現在 株式会社エンジンズ　キッズプロジェクト
 * 子供向けコンテンツ開発に従事(Java/Vue.js/Nuxt.js/Electron/Unity/Wordpress)
+* 絵本
 * GIGAスクール向けプログラミング学習コンテンツの開発 - https://the.minprogramming.jp/
 
 ## スキル
 ### 言語
+* JavaScript/TypeScript
+* Node.js
 * Java
 * Python
-* JavaScript
 * C#
 * PHP
+* MySQL
 
 ### フレームワーク
 * Vue.js/Nuxt.js
