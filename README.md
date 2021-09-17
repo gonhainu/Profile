@@ -15,8 +15,15 @@
 
 ### 2018.06 - 現在 株式会社エンジンズ　キッズプロジェクト
 * 子供向けコンテンツ開発に従事(Java/Vue.js/Nuxt.js/Electron/Unity/Wordpress)
-* 絵本
-* GIGAスクール向けプログラミング学習コンテンツの開発 - https://the.minprogramming.jp/
+* GIGAスクール向けプログラミング学習コンテンツの開発 - Nuxt.js/Express/MySQL
+  * https://the.minprogramming.jp/
+  * https://teacher.minprogramming.jp/
+  * https://player.minprogramming.jp/
+* 絵本アプリ開発 - Unity
+* イベント企画アプリ開発 - Electron/Vue.js/TypeScript
+* イベントページ開発 - Wordpress/Nuxt.js/Vue.js
+  * Google SpreadSheet、GitHub Actionsを使った簡易CMS
+* ネイティブアプリ開発 - iOS(Swift)/Android(Kotlin)
 
 ## スキル
 ### 言語
@@ -34,3 +41,4 @@
 * Unity
 
 ## 課外活動
+* U-16プログラミングコンテスト釧路大会実行委員（2013年）
