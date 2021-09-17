@@ -40,5 +40,12 @@
 * Electron
 * Unity
 
+### ツール
+* git
+* Docker
+* AWS
+* Illustlator
+* Photoshop
+
 ## 課外活動
 * U-16プログラミングコンテスト釧路大会実行委員（2013年）
